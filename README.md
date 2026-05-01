@@ -8,14 +8,18 @@ Check out the live site here: [Amandeep Verma Portfolio](https://amanverma-3d-po
 
 ### 📸 Screenshots
 
-![Hero Section](./screenshots/hero.png)
-*Hero Section with interactive 3D elements*
+<p align="center">
+  <img src="./screenshots/ss1.png" width="45%" />
+  <img src="./screenshots/ss2.png" width="45%" />
+  <br />
+  <img src="./screenshots/ss3.png" width="45%" />
+  <img src="./screenshots/ss4.png" width="45%" />
+  <br />
+  <img src="./screenshots/ss5.png" width="45%" />
+  <img src="./screenshots/ss6.png" width="45%" />
+</p>
 
-![About Section](./screenshots/about.png)
-*About Section and Technical Overview*
-
-![Projects Section](./screenshots/projects.png)
-*Showcase of featured projects*
+*Visual overview of the 3D Portfolio experience*
 
 ## ✨ Features
 
