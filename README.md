@@ -6,20 +6,6 @@ A high-performance, interactive 3D portfolio built with React, Three.js, and Fra
 
 Check out the live site here: [Amandeep Verma Portfolio](https://amanverma-3d-portfolio.vercel.app/) *(Link placeholder)*
 
-### 📸 Screenshots
-
-<p align="center">
-  <img src="./screenshots/ss1.png" width="45%" />
-  <img src="./screenshots/ss2.png" width="45%" />
-  <br />
-  <img src="./screenshots/ss3.png" width="45%" />
-  <img src="./screenshots/ss4.png" width="45%" />
-  <br />
-  <img src="./screenshots/ss5.png" width="45%" />
-  <img src="./screenshots/ss6.png" width="45%" />
-</p>
-
-*Visual overview of the 3D Portfolio experience*
 
 ## ✨ Features
 
