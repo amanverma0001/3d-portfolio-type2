@@ -6,6 +6,17 @@ A high-performance, interactive 3D portfolio built with React, Three.js, and Fra
 
 Check out the live site here: [Amandeep Verma Portfolio](https://amanverma-3d-portfolio.vercel.app/) *(Link placeholder)*
 
+### 📸 Screenshots
+
+![Hero Section](./screenshots/hero.png)
+*Hero Section with interactive 3D elements*
+
+![About Section](./screenshots/about.png)
+*About Section and Technical Overview*
+
+![Projects Section](./screenshots/projects.png)
+*Showcase of featured projects*
+
 ## ✨ Features
 
 - **3D Immersive Experience**: Interactive 3D models using React Three Fiber and Three.js.
